@@ -2,7 +2,7 @@ Problem Statement-1:
 Consider we need 3 matrix w1, w2 and w_out with size (n1,m1), (n2,m3) and (n_out,m_out) respectively. Initially all elements are zeros in all matrix.
 we have a vector V size of (1, n1*m1 + n2*m2 + n_out*m_out) In other words, sum of number of elements in all matrix is equal to number of elements in V. 
 Create a python function which takes V and fill elements in V to w1,w2,w_out and returns w1, w2 and w_out.
-Use numpy 2d array for creating matrix. Don't use Numpy matrix. 
+Use numpy 2d array for creating matrix.
 
 
 EDITED EDITED
